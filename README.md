@@ -1,5 +1,6 @@
 # ping
-Reimplementation of ping
+
+A program used to test a host on an Internet Protocol (IP) network
 
 Shreif Abdallah
 <selsaid@u.rochester.edu>
